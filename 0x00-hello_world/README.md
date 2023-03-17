@@ -1,6 +1,10 @@
 0. Preprocessor
 Write a script that runs a C file through the preprocessor and save the result into another file.
+<<<<<<< HEAD
 1. Compiles
+=======
+1. Compiler
+>>>>>>> f0c77a1c79b440ac2b0f55eb49d9663516b95024
 Write a script that compiles a C file but does not link.
 2. Assembler
 Write a script that generates the assembly code of a C code and save it in an output file.
